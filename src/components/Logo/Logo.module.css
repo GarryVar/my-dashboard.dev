@@ -1,0 +1,16 @@
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: rgb(216, 216, 216); */
+}
+
+.text {
+  font-family: "Input Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  font-size: 60px;
+  color: white;
+}
